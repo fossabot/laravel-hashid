@@ -7,6 +7,7 @@
 [![Total Downloads](https://poser.pugx.org/veelasky/laravel-hashid/downloads)](//packagist.org/packages/veelasky/laravel-hashid)
 [![Dependents](https://poser.pugx.org/veelasky/laravel-hashid/dependents)](//packagist.org/packages/veelasky/laravel-hashid)
 [![License](https://poser.pugx.org/veelasky/laravel-hashid/license)](//packagist.org/packages/veelasky/laravel-hashid)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fveelasky%2Flaravel-hashid.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fveelasky%2Flaravel-hashid?ref=badge_shield)
 
 Automatic HashId generator for your eloquent model.
 
@@ -174,3 +175,6 @@ Validator::make([
 #### License
 
 MIT License
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fveelasky%2Flaravel-hashid.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fveelasky%2Flaravel-hashid?ref=badge_large)
